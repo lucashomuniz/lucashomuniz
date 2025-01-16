@@ -5,7 +5,7 @@ Analista de Dados Sênior com forte formação em engenharia e com 4 anos de exp
 
 Um dos maiores resultados foi alcançar uma redução de custos de 25% para uma empresa de construção, ao desenvolver métricas e indicadores, mapeando desperdícios de mão de obra e materiais. Em outra oportunidade, contribuí no desenvolvimento de modelos preditivos para uma rede imobiliária, resultando em um aumento de 35% na taxa de conversão de vendas e uma redução de 25% no tempo médio para vender ou alugar imóveis. Além disso, ao consolidar informações de múltiplas fontes em um único dashboard, foi possível reduzir em 40% o tempo médio de resolução de incidentes para atividades de backlog em uma empresa de telecomunicações. Por fim, um dos meus principais marcos foi alcançar uma redução de 75% no tempo de processamento de dados ao migrar o processo de transformação de dados diretamente para a nuvem.
 
-###################################################################################################
+#################################################################################################
 
 ### EN
 
