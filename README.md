@@ -1,4 +1,4 @@
-## DATA ANALYTICS PORTIFOLIO
+# DATA ANALYTICS PORTIFOLIO
 
 Sênior Data Analyst with a strong background in engineering, with **4 years of experience** connecting business to data. My expertise lies in **programming languages**, **advanced statistical analysis** and **data visualizations**. This combination, in addition to my **communication skills**, **analytical thinking** and **time management**, allows me to solve a wide range of challenges with total precision. Through my proficiency in several analytical tools, I have successfully developed projects that helped optimize the results of companies in the most diverse sectors, such as **civil construction**, **real-state**, **telecommunications** and **food industry**.
 
