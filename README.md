@@ -1,3 +1,15 @@
-This portfolio presents over **twenty projects** in the **data analytics field** each designed to address real-world business challenges and create strategic value. The projects span a variety of objectives, from **statistical analysis** to uncover patterns and trends, to building robust **ETL/ELT pipelines** that streamline data processing. Comprehensive **data transformations** were performed to ensure high-quality and well-integrated datasets, while **interactive dashboards** were developed to support data-driven decision-making effectively. Predictive models powered by **machine learning algorithms** delivering actionable forecasts and insights. 
+This portfolio presents different types of projects in the **Data Analytics** field each designed to address real-world business challenges and create strategic value. 
 
-By leveraging technologies such as Python, R, SQL, Databricks, PySpark, Google Cloud Platform, Microsoft Azure and PowerBI, this portfolio demonstrates a unified approach to deliver efficient, scalable and impactful solutions, emphasizing the ability to translate complex data into actionable insights that drive measurable business outcomes.
+**Statistical Analysis**  
+A strong foundation in statistical modeling ensures the accuracy of insights drawn from data. This portfolio applies hypothesis testing, regression analysis, time series analysis, analysis of variance and probability distributions to uncover patterns, trends and correlations to support data-driven strategies.
+
+**Data Visualization**  
+Turning complex datasets into intuitive results is key to effective decision-making. This portfolio leverages **advanced visualization techniques** using tools like Power BI and Python libraries to craft dynamic dashboards that enhance data storytelling and business intelligence.
+
+**Machine Learning**  
+Predictive analytics drive smarter business strategies. This portfolio features projects that utilize supervised and unsupervised learning, employing models like Linear Regression, Decision Trees, Random Forest and Deep Learning to forecast trends and optimize processes.
+
+**Data Engineering**  
+Efficient data pipelines form the structure of data analytics. This portfolio highlights expertise in ETL processes, big data frameworks, and cloud computing, leveraging technologies to ensure data is accessible, clean, and ready for advanced analytics.
+
+By leveraging technologies such as Python, R, SQL, Databricks, GCP Stack, Azure Stack, AWS Stack and PowerBI, this portfolio demonstrates a unified approach to deliver efficient, scalable and impactful solutions that drive measurable business outcomes.
