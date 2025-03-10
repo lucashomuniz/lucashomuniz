@@ -1,4 +1,4 @@
-This **Portifolio** presents different types of projects, each designed to address real-world business challenges and create strategic value. By leveraging technologies such as PowerBI, Python, R, SQL, Google Cloud Plataform, Azure Cloud, this portfolio demonstrates a unified approach to deliver efficient, scalable and impactful solutions that drive measurable business outcomes.
+This **Portifolio** presents different types of projects, each designed to address real-world business challenges and create strategic value. By leveraging technologies such as PowerBI, Python, R, SQL, Google Cloud and Azure Cloud, this portfolio demonstrates a unified approach to deliver efficient, scalable and impactful solutions that drive measurable business outcomes.
 
 | DATA VISUALIZATION | STATISTICAL ANALYSIS | MACHINE LEARNING  | DATA ENGINEERING |
 | :---: | :---: | :---: | :---: |
